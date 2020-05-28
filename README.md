@@ -20,6 +20,14 @@
 
 `"mv"` - Moves or renames a file. It copies first then deletes the previous version. 
 
+`"sudo"`    - Allows you to gain super admin rights in the terminal for certain admin actions.
+
+`"man"`     - give you a manual for syntax utilize in terminal 
+
+`"clear"`   - wipes the terminal window you are in.
+
+`"open"`    - allows you to open a file. 
+
 ![gif of the matrix green symbols running up and down the screen](https://media.giphy.com/media/Q9aBxHn9fTqKs/giphy.gif)
 
 This cheatsheet is not yet complete!
